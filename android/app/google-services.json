@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953567384679",
+    "project_id": "friendle-2c8a4",
+    "storage_bucket": "friendle-2c8a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953567384679:android:2c8c0a3b1727e1bfaf30c2",
+        "android_client_info": {
+          "package_name": "com.example.friendle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJjHqCHDsxKiRvCyvhAZKbkro_33WHZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
